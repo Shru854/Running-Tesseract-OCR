@@ -1,5 +1,5 @@
 # Running-Tesseract-OCR
-# 1st donload  or scan an image with high resolution 
+# 1st download  or scan an image with high resolution 
 # open terminal where your scan or download image is present 
 # Now  type command to copy it intomain tesseract ocr folder 
 $ sudo cp -r image name /usr/share/tesseract-ocr/4.00/name_of_folder_where_image _will_store
